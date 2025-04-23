@@ -1,11 +1,3 @@
----
-title: Readme
-
----
-
-
-
-
 # Usage
 The group of codes is designed to **generate a number of problem-answer pairs** for ([Codeforces](https://codeforces.com/)). The problem includes the following components: the original problem (comprising the Problem definition, input and output specifications, sample input and output, and notes), the input to the problem, and the code for solving the problem.  
 
