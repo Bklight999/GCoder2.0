@@ -128,5 +128,5 @@ According to the trace, the answer is 500.
 4. **Batch Processing**  
    - Data generation is performed in batches to balance speed and memory usage.  
    - Serial data generation is slow, while parallel generation can place significant demand on system memory. Using batches optimizes this process.
-   - Adjust the batch size and the total number of batches in **`data_generator_args_codeforce.py`** to prevent memory overflow of your device.
+   - Adjust the **`batch_size`** and **`batch_limit`** in **`run_codeforce.py`** to prevent memory overflow of your device.
 
